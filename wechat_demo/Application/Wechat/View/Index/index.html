@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>默认首页</title>
+    <style type="text/css">
+        #avatar {
+            width: 180px;
+            height: 180px;
+            margin: 0 auto;
+            -webkit-border-radius: 50%;
+            -moz-border-radius: 50%;
+            border-radius: 50%;
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body>
+    <div id="avatar">
+        <img src="{: C('QINIU_DOMAIN') . $user['headImagesPath']}" width="180" height="180">
+    </div>
+    <h3>{$user.username} 您好，欢迎访问业务系统后台默认页面</h3>
+</body>
+</html>

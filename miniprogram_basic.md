@@ -371,7 +371,7 @@ JavaScript 实现形式对比：
 
 可扫描下面的二维码，通过**小程序开发者助手**快捷的体验以上各版本。
 
-<img src="./images/developer_help.jpg" width="200" title="小程序开发者助手" />
+<img src="./images/developer_help.png" width="200" title="小程序开发者助手" />
 
 ### 5. 其它
 

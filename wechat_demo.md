@@ -125,7 +125,7 @@ Generating autoload files
 
 进去之后，在页面中配置如下：
 
-![image](./screenshots/Jietu20170913-110344.png)
+![image](./images/Jietu20170913-110344.png)
 
 **这里的 URL 对应公众号服务端入口地址**。
 
@@ -142,11 +142,11 @@ Generating autoload files
 
 如果想使用授权登录功能，还需要在 2.2 中的测试用户页面中，找到如下位置：
 
-![image](./screenshots/Jietu20170913-132134.png)
+![image](./images/Jietu20170913-132134.png)
 
 单击修改，追加类似如下域名：
 
-![image](./screenshots/Jietu20170913-132310.png)
+![image](./images/Jietu20170913-132310.png)
 
 单击确定保存配置成功后，再开始后面的业务逻辑。
 

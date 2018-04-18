@@ -7,4 +7,5 @@
 
 ### 小程序
 
-- [小程序开发之基础入门篇](./miniprogram_basic.md)
+- [小程序开发 - 基础入门指引](./miniprogram_basic.md)
+- [小程序开发 - 相关资源整理](./miniprogram_awesome.md)
